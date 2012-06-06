@@ -1,4 +1,8 @@
-The-Wizard-Who-Stumbled
+The Wizard Who Stumbled
 =======================
 
-Sourcecode of the game. The Wizard Who Stumbled is a 2d top down fantasy shooter. You are the wizard - you created the zombies - now kill them again!
+A 2d top down fantasy zombie shooter. Sourcecode of the game is open source.
+
+You can play the beta version here: http://www.the-wizard-who-stumbled.de.
+
+The game uses the Impact game engine: http://impactjs.com.
